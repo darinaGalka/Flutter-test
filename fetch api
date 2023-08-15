@@ -1,8 +1,6 @@
 class Album {
       .get(Uri.parse('https://jsonplacehol
-      .get(Uri.parse('https://jsonplaceholder.typicode.com/albums/1'));
-
-  if (response.statusCode == 200) {der.typicode.com/albums/1'));
+      .get(Uri.parse('https://jsonplaceholder.typicode.com/al/1'));
 
   if (response.statusCode == 200) {
     // If the server did return a 200 OK response,
