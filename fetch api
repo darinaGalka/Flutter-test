@@ -10,7 +10,3 @@ class Album {
     // If the server did not return
 }
 class _MyAppState extends State<MyApp> {
-    super.initState();
-    futureAlbum = fetchAlbum();
-  // ···
-}
