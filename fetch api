@@ -12,3 +12,14 @@ class Album {
     // If the server did not return
 }
 class _MyAppState extends State<MyApp> {
+
+  if (response.statusCode == 200) {
+    // If the server did return a 200 OK response,
+    // then parse the JSON.
+    return Album.fromJson(jsonDecode(response.body));
+  } else {
+    // If the server did not return
+}
+    // If the server did not return
+}
+class _MyAppState extends State<MyApp> {
