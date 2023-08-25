@@ -8,8 +8,7 @@ class Album {
     return Album.fromJson(jsonDecode(response.body));
   } else {
     // If the server did not return
-}
-    // If the server did not return
+}eturn
 }
 class _MyAppState extends State<MyApp> {
 
