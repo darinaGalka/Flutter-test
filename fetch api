@@ -10,6 +10,10 @@ class Album {
     // If the server did not return
 }eturn
 }
+    // If the server did not return
+}eturn
+}
+class _MyAppState extends State<MyApp> {
 class _MyAppState extends State<MyApp> {
 
     // If the server did return a 200 OK response,
