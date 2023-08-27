@@ -9,8 +9,6 @@ class Album {
   } else {
     // If the server did not return
 }eturn
-}
-    // If the server did not return
 }eturn
 }
 class _MyAppState extends State<MyApp> {
