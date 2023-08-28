@@ -13,8 +13,6 @@ class Album {
 }
 class _MyAppState extends State<MyApp> {
 class _MyAppState extends State<MyApp> {
-
-    // If the server did return a 200 OK response,
     // then parse the JSON.
     return Album.fromJson(jsonDecode(response.body));
   } else {
