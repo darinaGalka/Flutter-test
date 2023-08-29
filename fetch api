@@ -12,7 +12,6 @@ class Album {
 }eturn
 }
 class _MyAppState extends State<MyApp> {
-class _MyAppState extends State<MyApp> {
     // then parse the JSON.
     return Album.fromJson(jsonDecode(response.body));
   } else {
