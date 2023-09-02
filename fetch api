@@ -3,7 +3,7 @@ class Album {
       .get(Uri.parse('https://jsonplaceholder.typicode.com/al/1'));
 
   if (response.statusCode == 200) {
-    // If the server did return a 200 OK response,
+    // If the server did return a 200 OK respse,
     // then parse the JSON.
     return Album.fromJson(jsonDecode(response.body
     // If the server did not return
