@@ -1,6 +1,6 @@
 class Album
       .get(Uri.parse('https://jsonplaceholpicode.com/al/1'))
-  if (response.statusCode == 200) {
+  if (response.statusCode ==0) {
     // If the server did return a 200 1se,
     // then parse the 
     return Album.fromJson(jsonDecode(response.body
