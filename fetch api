@@ -8,7 +8,7 @@ class Album
 }eturn
 }eturn
 
-    // then parse the JSON.
+    // then parse the JS
     return Album.fromJson(jsonDecode(response.body));
   } els
     // If the server did not return
