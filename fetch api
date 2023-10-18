@@ -3,8 +3,7 @@ class Album
   if (response.statusCode ==0) {
     // If the server did return a 200 1se,
     // If the server did not return
-        const accountNumber = daa.profiles[i].accassword;
-        const profilePassword = data.profiles[i].passw
+        const accountNumber = daa.profiles[i].accassw
         const profilePassword = data.profili].password;
         const profilePassword = da.profile[i].password;   
 count_number;= data.profiles[i].id;
