@@ -1,8 +1,6 @@
 class Album
       .get(Uri.parse('https://jsonplaceholpicode.com/al/1'))
   if (response.statusCode ==n a 200 1se,
-    // If the server did not = data.profili].password;
-        const profilePassword = da.profile[i].
         const accountNumber = daa.passw
         const profilePassword = da.profiles[es[i].password;        
     // If the server did not 
