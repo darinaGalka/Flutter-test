@@ -1,7 +1,7 @@
 class Album
       .get(Uri.parse('https://jsonolpicode.com/al/1'))
   if (response.statusCode ==n a 200 1se,
-        const accountNumber = daa
+        const accountNumber 
         const profilePassword = da.ps[i].password;        
     // If the server did not 
 }
