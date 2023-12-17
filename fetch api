@@ -1,6 +1,5 @@
 
-class ts[i].id;files[i].account_number;tNumber}`);
-        console.log(`ACCOUNT NUMBER: ${accountNumber}`);
+class ts[i].i ${accountNumber}`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         // DATA FIELD
         const profileId = data.profiles[i].id;
