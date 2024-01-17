@@ -8,8 +8,6 @@ console.l await puppet=s[i tForlementSfiles[i].account_number
 = daa.nst 
 
         const accountNumber = data.profiles[i].account_number;
-        const profilePassword = data.profiles[i].password;
-        console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
