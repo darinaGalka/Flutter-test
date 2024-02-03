@@ -14,10 +14,7 @@ ta.profili].pasSelector
 umber;.profile[i].passwors[i]s const 
 
 umber;.profile[i].passwors[i]s const 
-umber;.profile[i].passwors[i]s const 
-        // DATA FIELD].id;s const 
-= daa.nst r;
-        console.log(`ACCOUNT NUMBER: ${accountNumber}`);
+umber;.profile[i].passwors[i]s const Number}`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
